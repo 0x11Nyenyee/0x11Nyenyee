@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=790b7611cp4k0g6ecjbvfbkaukm5l6pu1wsjvx2mg8j9qgva&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="400" src="https://nyenyeeits.me/images/gh-banner.jpeg"  />
 </div>
 
 ###
